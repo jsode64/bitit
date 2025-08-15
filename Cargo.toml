@@ -1,0 +1,9 @@
+[package]
+name = "bitit"
+version = "0.1.1"
+authors = ["Joseph Soderquist <jsode6405@gmail.com>"]
+edition = "2021"
+description = "A library for bitwise iteration over Rust integers."
+keywords = ["bit", "bits", "bitwise", "iterator", "binary"]
+license = "MIT"
+repository = "https://github.com/jsode64/bitit"
